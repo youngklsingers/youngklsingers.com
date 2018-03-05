@@ -1,24 +1,31 @@
 {{ define "main" }}
-  <h1 class="my-4">Latest Interviews</h1>
-  <hr>
+  {{ range $index, $element := .Data.Pages }}
+    <!-- Blog Post -->
 
-  {{ range .Data.Pages }}
-    <article>
-      <!-- Blog Post -->
-
-      <div class="card mb-4">
-          <img class="card-img-top" src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-          <div class="card-body">
-            <h2 class="card-title">{{ .Title }} <small class="text-muted">{{ .Description }}</small></h2>
-            <p class="card-text">{{ .Summary }}</p>
-            <a href="{{ .Permalink | relURL }}" class="btn btn-primary btn-sm">Read More &rarr;</a>
+    <section class="page-section">
+      <div class="container">
+        <div class="product-item">
+          <div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex {{ if eq (mod $index 2) 0 }} ml-auto {{ else }} mr-auto {{ end }} rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">{{ .Title }}</span>
+                <span class="section-heading-lower">{{ .Description }}</span>
+              </h2>
+            </div>
           </div>
-          <div class="card-footer text-muted">
-            Posted on {{ .Date.Format "Monday, 02 January 2006" }}
+          <!-- <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="{{ .Params.featured_image }}" alt="{{ .Title }}"> -->
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="https://blackrockdigital.github.io/startbootstrap-business-casual/img/products-02.jpg" alt="{{ .Title }}">
+          <div class="product-item-description d-flex {{ if eq (mod $index 2) 0 }} mr-auto {{ else }} ml-auto {{ end }}">
+            <div class="bg-faded p-5 rounded">
+              <p class="mb-0">{{ .Summary }}<br />Posted on {{ .Date.Format "Monday, 02 January 2006" }}</p>
+              <a href="{{ .Permalink | relURL }}" class="btn btn-primary btn-sm">Read More &rarr;</a>
+            </div>
           </div>
         </div>
+      </div>
+    </section>
 
-        <h2></h2>
-    </article>
-  {{ end }}
+    {{ end }}
 {{ end }}
+
+
