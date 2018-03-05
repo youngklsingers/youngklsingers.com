@@ -1,0 +1,32 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+article ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+article ul li {
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+article ul li blockquote {
+  font-weight: normal;
+  padding-left: 1em;
+}
+
+article ul li p {
+  margin: 0;
+}
+
+article ul li blockquote p {
+  margin-bottom: .5em;
+}

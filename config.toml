@@ -1,0 +1,8 @@
+baseURL = "https://youngklsingers.com/"
+publishDir = "docs"
+languageCode = "en-us"
+title = "The Young KL Singers"
+theme = "strait-talk"
+# googleAnalytics = "UA-112176987-1"
+[taxonomies]
+  tag = "tags"
