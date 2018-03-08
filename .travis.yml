@@ -1,4 +1,12 @@
 os: osx
 
-before_install:
+install:
   - brew install hugo
+
+script:
+  - hugo
+
+after_success:
+  - echo $GITHUB_API_KEY
+  - echo $GITHUB_USER
+
