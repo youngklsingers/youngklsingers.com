@@ -9,8 +9,6 @@ script:
   - hugo
 
 after_success: |
-  if [ -n "$GITHUB_API_KEY" ]; then
-    git add -f --ignore-errors --all
-    git -c user.name='travis' -c user.email='travis' commit -m update-website
-    git push https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG master
-  fi
+  git add -f --ignore-errors --all
+  git -c user.name='travis' -c user.email='travis' commit -m update-website
+  git push https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG master
