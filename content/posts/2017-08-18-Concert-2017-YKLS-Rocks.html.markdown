@@ -7,6 +7,8 @@ tags: []
 
 From the 60's to the new millennium, from classic rock to hard rock to alternative to fusion rock (among many others), The Young KL Singers (YKLS) will be pouring their hearts out to celebrate their 15th Anniversary with the production, YKLS Rocks!
 
+<!--more-->
+
 Presented in two contrasting halves, chronological vs sub-genres, the audience will be brought through a choral journey of rock music backed by ETA, a 4-piece band. The first half of the programme will showcase the choir's vocal prowess with a more mean and lean direction meanwhile you can expect a lighter second half done a la "sing-off" format.****
 
 

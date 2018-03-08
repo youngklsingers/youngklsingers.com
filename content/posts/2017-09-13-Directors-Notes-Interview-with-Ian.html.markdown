@@ -13,6 +13,8 @@ tags:
 
 For “YKLS ROCKS!” director Ian Chow, this will be his fourth performance outing with the community choir,  ever since he first mustered enough courage to pick up the phone to book a slot for auditions back in 2002.
 
+<!--more-->
+
 Since then, Chow has produced or been on the advisory committee for almost all YKLS productions, and even stage-managed a few.
 
 Some productions which have stood the test of time for Chow include “Through the Barricade” (2004), performing excerpts from Les Misérables and Miss Saigon musicals; “Beat It, Sing It” (also 2004) a high energy performance singing ethnic music with a 3-piece percussion backing; and “Together As One” (2010), which had YKLS members from different walks of life singing songs from different faiths and religions.
