@@ -1,6 +1,7 @@
 ---
 title: 'Concert 2017: YKLS Rocks!'
 date: '2017-08-18 19:06:57'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520511297/ykls_ROCKS__4_LR_A3.jpg"
 tags: []
 ---
 

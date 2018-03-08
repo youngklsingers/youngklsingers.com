@@ -1,6 +1,7 @@
 ---
 title: 'Director''s Notes: Interview with Ian'
 date: '2017-09-13 13:11:04'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520511287/Profile_Frame_YKLSRocks.jpg"
 tags:
 - choir
 - general
