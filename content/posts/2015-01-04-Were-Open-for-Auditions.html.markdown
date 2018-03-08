@@ -1,6 +1,7 @@
 ---
 title: We're Open for Auditions!
 date: '2015-01-04 01:56:50'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520512464/YKLS_Audition_Illuminations_Group_150824.jpg"
 tags:
 - news
 ---
