@@ -1,7 +1,12 @@
-os: osx
+dist: trusty
+sudo: required
+
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install snapd
 
 install:
-  - brew install hugo
+  - sudo snap install hugo
 
 script:
   - hugo
