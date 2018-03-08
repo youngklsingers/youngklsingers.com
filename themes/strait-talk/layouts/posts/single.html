@@ -7,30 +7,30 @@
 {{ end }}
 
 {{ define "main" }}
-  <article>
-    <h1 class="my-4">{{ .Title }} <small class="text-muted">{{ .Description }}</small></h1>
-    <hr>
+<article>
+  <div class="container my-5">
+    <div class="card">
+      <h1 class="card-header text-center">
+        {{ .Title }}
+      </h1>
+      <img class="card-img-top" src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+      <div class="card-body">
+        <p class="card-text">{{ .Content }}</p>
 
-    <!-- Preview Image -->
-    <img class="img-fluid rounded" src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+      <hr>
+      <p>Posted on {{ .Date.Format "Monday, 02 January 2006" }}</p>
 
-    <hr>
-    <!-- Date/Time -->
-
-    {{ .Content }}
-
-    <hr>
-    <p>Posted on {{ .Date.Format "Monday, 02 January 2006" }}</p>
-
-    <!-- Pagination -->
-    <ul class="pagination justify-content-center mb-4">
-      <li class="page-item{{if not .PrevInSection}} disabled{{end}}">
-        <a class="page-link" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}">&larr; Older</a>
-      </li>
-      <li class="page-item{{if not .NextInSection}} disabled{{end}}">
-        <a class="page-link" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}">Newer &rarr;</a>
-      </li>
-    </ul>
-
-  </article>
+      <!-- Pagination -->
+      <ul class="pagination justify-content-center mb-4">
+        <li class="page-item{{if not .PrevInSection}} disabled{{end}}">
+          <a class="page-link" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}">&larr; Older</a>
+        </li>
+        <li class="page-item{{if not .NextInSection}} disabled{{end}}">
+          <a class="page-link" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}">Newer &rarr;</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </div>
+</article>
 {{ end }}
