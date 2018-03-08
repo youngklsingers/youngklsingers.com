@@ -1,4 +1,4 @@
 os: osx
 
 before_install:
-  - sudo brew install hugo
+  - brew install hugo
