@@ -1,6 +1,7 @@
 ---
 title: Live On Stage, Live This Wednesday!
 date: '2015-10-12 13:59:44'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520597570/IMG_6624.jpg"
 tags:
 - live-on-stage
 ---
