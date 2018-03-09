@@ -1,6 +1,11 @@
 dist: trusty
 sudo: required
 
+notifications:
+  slack: ykls:VmA5DfmkyzlFoqBP3pWZOzQB
+
+
+
 install:
   - wget -c https://github.com/gohugoio/hugo/releases/download/v0.37.1/hugo_0.37.1_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
