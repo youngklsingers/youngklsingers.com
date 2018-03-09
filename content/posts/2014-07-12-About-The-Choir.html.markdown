@@ -4,7 +4,7 @@ date: '2014-07-12 20:49:28'
 tags: []
 ---
 
-The Young KL Singers (YKLS) is a bunch of 40 people with a few things in common:
+The Young KL Singers (YKLS) is a bunch of people with a few things in common:
 
 (1) We love singing!
 
@@ -18,11 +18,12 @@ The Young KL Singers (YKLS) is a bunch of 40 people with a few things in comm
 
 
 
-**So what are you really? **
+**So what are you really?**
 
 Very simply, YKLS is a community choir. We’ve got teachers, consultants, central bankers, flight attendants, piano accompanists, voice healers, business owners, interior designers, mothers, students, yoga instructors, traders, pharmacists, et cetera – all of whom feel life would not be complete without spending three nights a week singing, harmonising and having fun doing it.
 
 **Wow! So, are you guys pros? Do you, like, write operas in the shower?**
+
 No, YKLS is a teaching choir. We learn singing techniques, how to read music, and bits and pieces of musical history and fun facts under the firm guiding hands of passionate, experienced teachers with a great sense of humour.
 
 YKLS is housed under the Young Choral Academy (YCA), the very first choral music school in Malaysia. For more information on the amazing work YCA does and the people behind it, take a peek at the YCA website 
@@ -47,5 +48,6 @@ As for serious faces...
 ...Yeah, probably not so much.
 
 **Amagad can I join you guys?**
+
 Yes, of course you can! YKLS opens for auditions every December-January. Click 
 [here](http://www.youngklsingers.com/?page_id=99) for more info.
