@@ -1,8 +1,9 @@
 ---
 title: YKLS Rocks!
 date: '2017-07-04 16:37:10'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520596676/ykls_ROCKS__4_LR_FB_ad.png" 
 tags:
 - yklsrocks
 ---
 
-[![ykls_ROCKS!_4_LR_FB ad](http://www.youngklsingers.com/wp-content/uploads/2017/07/ykls_ROCKS_4_LR_FB-ad.png)](http://www.youngklsingers.com/wp-content/uploads/2017/07/ykls_ROCKS_4_LR_FB-ad.png)
+(https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520596676/ykls_ROCKS__4_LR_FB_ad.png)](https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520596676/ykls_ROCKS__4_LR_FB_ad.png)
