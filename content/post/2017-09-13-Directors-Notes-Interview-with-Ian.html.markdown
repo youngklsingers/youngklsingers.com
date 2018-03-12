@@ -2,6 +2,7 @@
 title: 'Director''s Notes: Interview with Ian'
 date: '2017-09-13 13:11:04'
 featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520511287/Profile_Frame_YKLSRocks.jpg"
+description: For “YKLS ROCKS!” director Ian Chow, this will be his fourth performance outing with the community choir,  ever since he first mustered enough courage to pick up the phone to book a slot for auditions back in 2002.
 tags:
 - choir
 - general
@@ -12,8 +13,6 @@ tags:
 ---
 
 For “YKLS ROCKS!” director Ian Chow, this will be his fourth performance outing with the community choir,  ever since he first mustered enough courage to pick up the phone to book a slot for auditions back in 2002.
-
-<!--more-->
 
 Since then, Chow has produced or been on the advisory committee for almost all YKLS productions, and even stage-managed a few.
 
