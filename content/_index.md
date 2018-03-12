@@ -7,7 +7,7 @@ The Young KL Singers (YKLS) is a bunch of 40 people with a few things in common:
 …But it’s all totally worth it.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/young-kl-singers/image/upload/v1520522470/YKLS_Rocks_Group_Photo_WPSlider.jpg">
+  <img class="group-photo" src="https://res.cloudinary.com/young-kl-singers/image/upload/v1520522470/YKLS_Rocks_Group_Photo_WPSlider.jpg">
 </p>
 
 ## So what are you really?
