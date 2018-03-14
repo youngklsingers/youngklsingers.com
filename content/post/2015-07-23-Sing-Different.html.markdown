@@ -1,12 +1,11 @@
 ---
 title: Sing Different
 date: '2015-07-23 03:43:36'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_fill,g_face:auto,h_600/v1521056531/20150723-Sing-Different-Feature.jpg"
 tags:
 - illuminations
 - yklsilluminations
 ---
-
-[![YKLS Sing Different](http://www.youngklsingers.com/wp-content/uploads/2015/07/YKLS-Sing-Different-300x300.jpeg)](http://www.youngklsingers.com/wp-content/uploads/2015/07/YKLS-Sing-Different.jpeg)
 
 If there's one thing about the Young KL Singers, it's that there's always something new every year - whether it be singalongs from musicals, breaking it down with jazz pieces, celebrating our musical and cultural heritage and even choral music inspired by traditions and rituals all over the world, it's certain that the Young KL Singers are an adventurous bunch to tackle different genres.
 
