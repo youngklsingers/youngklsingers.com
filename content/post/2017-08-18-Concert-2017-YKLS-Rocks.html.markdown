@@ -32,4 +32,4 @@ Online: ticketpro.com.my
 Tel: +603 4047 9000 (klpac) +603 7880 7999 (ticketpro)
 
 
-[![ykls_ROCKS!_4_LR_A3](http://www.youngklsingers.com/wp-content/uploads/2017/08/ykls_ROCKS_4_LR_A3.jpg)](http://www.youngklsingers.com/wp-content/uploads/2017/08/ykls_ROCKS_4_LR_A3.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1520511297/ykls_ROCKS__4_LR_A3.jpg)
