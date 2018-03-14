@@ -13,17 +13,16 @@ YKLS Period! In 2013!*After being with Young Choral Academy (and assistant music
 
  	
 *Chi Hoe recently came back from the UK (gosh 7 years!) and was musical director for this production, bringing back a taste of European musical culture (evident in this production!).
-[caption id="" align="aligncenter" width="3264"]
-![IMG_6739](http://www.youngklsingers.com/wp-content/uploads/2017/07/IMG_6739.jpg) 
 
-And I come to you now, at the turn of the tide[/caption]
+!(https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521052299/20170721-Thats-It-Period-1.jpg)
+[caption]And I come to you now, at the turn of the tide[/caption]
 
 *This is probably the only YKLS concert where all the music is public domain. That means you can find it at our YouTube channel (or, just it watch below)!
 
  	
 *We've brought the show to Penang! Not the first time, though - that was Together As One back in 2009.
 
-[![IMG_6732](http://www.youngklsingers.com/wp-content/uploads/2017/07/IMG_6732.jpg)](http://www.youngklsingers.com/wp-content/uploads/2017/07/IMG_6732.jpg)
+!(https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521053192/20170721-Thats-It-Period-2.jpg)
 
 *Speaking of performing in Penang, some of us stayed in the provided accommodations, some decided to stay in hotels. There was a supernatural experience at one of those hotels for some members - if we recall correctly it got curious at what the members tapau'ed back to the room.
 
@@ -37,7 +36,7 @@ Medieval English. Italian. Spanish. Languages we learnt to sing in this time.
  	
 *During the concert week, post-concert a bunch of us would head to the tai chow (Sun Yau Tak Teng?) at Damansara Uptown for dinner. What started off with probably 3 tables joint together on Thursday night ended up with 5-6 tables for 28 people (almost all the choir members!) by Saturday night!
 
-[![](http://www.youngklsingers.com/wp-content/uploads/2017/07/img_5346.jpg)](http://www.youngklsingers.com/wp-content/uploads/2017/07/img_5346.jpg)
+!(https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521053301/120170721-Thats-It-Period-3.jpg)
 
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLwC0tDqJNAlWpGwny2KoHQEyAhEk_YLZU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
