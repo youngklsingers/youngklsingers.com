@@ -1,6 +1,7 @@
 ---
 title: Join Choir, Live Longer!
 date: '2017-01-05 21:38:56'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_fill,g_faces:center,h_600/v1521055438/2017-01-05-Join-Choir-Live-Longer-Feature.jpg"
 tags:
 - choir
 - choral
@@ -26,5 +27,3 @@ The Young KL Singer's 2017 season is starting on 9th Jan 2017, and boy, do we ha
 [Contact us](http://www.youngklsingers.com/contact-and-subscribe/) for audition details!
 
 By: Edlyn Khoo
-
-![IMG_6182](http://www.youngklsingers.com/wp-content/uploads/2015/12/IMG_6182.jpg)
