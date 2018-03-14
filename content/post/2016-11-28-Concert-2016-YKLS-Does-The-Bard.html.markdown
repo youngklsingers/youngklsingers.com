@@ -1,6 +1,7 @@
 ---
 title: 'Concert 2016: YKLS Does The Bard'
 date: '2016-11-28 17:34:22'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521057154/YKLS_DTB_2_FB_ad.png"
 tags: []
 ---
 
@@ -31,4 +32,4 @@ Online: klpac.org, ticketpro.com.my
 Tel: +603 4047 9000
 
 
-![YKLS 2016 YKLS Does The Bard Banner](http://www.youngklsingers.com/wp-content/uploads/2016/11/14556768_1124583914293082_5360998699570588496_o.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1521057153/YKLS_DTB_2_LR_DL_back.jpg)
