@@ -1,6 +1,7 @@
 ---
 title: Illusion & Illuminations
 date: '2015-09-08 13:05:14'
+featured_image: "http://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521364424/20150908-Illusion-and-Illuminations-Petronas-Youtube.jpg"
 tags:
 - choir
 - general
@@ -15,8 +16,8 @@ We are excited and very pleased to announce that YKLS have been invited by Petro
 
 You can learn more about the Illusion exhibition at the 
 [Petrosains website here](http://www.petrosains.com.my/page/public/illusion-about.php) and at the 
-[Dublin Science Gallery website here](https://dublin.sciencegallery.com/illusion), and watch a bit of what it is about in the video below!
+[Dublin Science Gallery website here](https://dublin.sciencegallery.com/illusion), and watch a bit of what it is about in the video below (click on the image)!
 
-https://youtu.be/R_5rsqsx4lY
+[![](https://img.youtube.com/vi/R_5rsqsx4lY/0.jpg)](https://www.youtube.com/watch?v=hR_5rsqsx4lY)
 
  
