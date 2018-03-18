@@ -1,6 +1,7 @@
 ---
 title: The YKLS Christmas Project
 date: '2015-11-02 13:51:32'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_xy_center,h_600,w_800,x_430,y_440/v1521362886/ykls_xmas_2012_2_LR-01.jpg"
 tags:
 - christmas
 ---
@@ -16,12 +17,14 @@ In the earlier years YKLS would have 2 productions in a year, and there were als
 Then in 2012, after celebrating 10 years of YKLS with the Popzzical production in August, everyone was restless for more singing. And so, there came...The YKLS Christmas Project.
 
 
-[![YKLS 2012 Christmas Project Poster](http://www.youngklsingers.com/wp-content/uploads/2014/07/ykls_xmas_2012_2_LR-01.jpg)](http://www.youngklsingers.com/wp-content/uploads/2014/07/ykls_xmas_2012_2_LR-01.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1521362886/ykls_xmas_2012_2_LR-01.jpg)
 
 Instead of the usual Christmas carols or more familiar pieces, the Christmas Project featured nativity pieces from other parts of the world and was a great repertoire to perform. With the theme of 'Light', the audience were surrounded by loads of Christmas festival lights and candles to give that sort of 'candlelight service' impression.
 
 
-[![68475_10151124542222944_1153888071_n](http://www.youngklsingers.com/wp-content/uploads/2015/11/68475_10151124542222944_1153888071_n.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/11/68475_10151124542222944_1153888071_n.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1521361827/20151102-The-YKLS-Christmas-Project-Llandudno-Parish.jpg)
+
+Photo credit: http://www.llandudno-parish.org.uk/carols_2008_2.jpg
 
 That wasn't how our venue looked like - it's a shame that we don't have much (if any!) media of the event.
 
