@@ -1,7 +1,7 @@
 ---
 title: Happy 58th Independence Day!
 date: '2015-08-28 13:38:37'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520511309/YKLS_Flag_4900x3500.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1520511309/YKLS_Flag_4900x3500.jpg"
 tags:
 - choir
 - general
@@ -41,11 +41,11 @@ Truly Asia.
 
 If only because there are mamak nights, dim sum dinners, durian buffet outings to show you our passion of food. But there's also this: a song composed by an Ipohan (Tracy Wong), with lyrics from Kajang (Denise Kong), Bangsar (Annette Christie) and Kelantan (Ryonn Leong). And it does capture that Malaysian essence:
 
-https://youtu.be/hhWJTUrOsws
+[![https://youtu.be/hhWJTUrOsws](https://img.youtube.com/vi/hhWJTUrOsws/0.jpg)](https://www.youtube.com/watch?v=hhWJTUrOsws)
 
 The result? Kami.
 
 And with that, we'll like to wish you Selamat Hari Merdeka and have a great weekend!
 
 
-[![YKLS Flag 4900x3500](http://www.youngklsingers.com/wp-content/uploads/2015/08/YKLS-Flag-4900x3500-1024x731.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/08/YKLS-Flag-4900x3500.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1520511309/YKLS_Flag_4900x3500.jpg)
