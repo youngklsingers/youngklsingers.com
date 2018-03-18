@@ -1,6 +1,7 @@
 ---
 title: Rehearsals Are Back Again!
 date: '2015-08-24 12:25:08'
+featured_image: "http://res.cloudinary.com/young-kl-singers/image/upload/v1521367609/YKLS_Auditions_Period_Banner.jpg"
 tags:
 - general
 ---
@@ -13,5 +14,4 @@ For current (and old) members, this means you don't have to wait until next yea
 
 Stay tuned, we'll let you know more in the upcoming weeks!
 
-[caption id="attachment_3089" align="aligncenter" width="700"]
-[![Join us!](http://www.youngklsingers.com/wp-content/uploads/2015/08/YKLS-Audition-Long-Period-Group-2015-768x1024.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/08/YKLS-Audition-Long-Period-Group-2015.jpg) Join us![/caption]
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1520512464/YKLS_Audition_Illuminations_Group_150824.jpg)
