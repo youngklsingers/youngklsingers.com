@@ -1,7 +1,7 @@
 ---
 title: 'Concert 2017: YKLS Rocks!'
 date: '2017-08-18 19:06:57'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_800/v1520511297/ykls_ROCKS__4_LR_A3.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_fill,h_900,w_1600/v1520596676/ykls_ROCKS__4_LR_FB_ad.png"
 tags: []
 ---
 
@@ -14,8 +14,6 @@ Presented in two contrasting halves, chronological vs sub-genres, the audience w
 
 
 **Pentas 2@KL Performing Arts Centre**
-
-
 
 Concert Times:
 31 August 2017: 8.30pm

@@ -47,15 +47,15 @@
 @media (min-width: 900px) {
     .ctsingle .post-feed {
         margin-top: -70px;
-        padding-top: 0;    
-    } 
+        padding-top: 0;
+    }
     .ctsingle .site-nav {
         position: relative;
         top: -70px;
-    }    
+    }
 }
 
-@media (min-width: 795px) {  
+@media (min-width: 795px) {
     .ctsingle .post-feed p {
         font-size: 1.8rem;
         line-height: 1.55em;
@@ -65,7 +65,7 @@
 @media (max-width: 650px) {
     .hide {
         display: none !important;
-    }   
+    }
     .copyright {
         text-align: center;
     }
@@ -73,4 +73,29 @@
 
 .post-full-content pre code {
     color: #e5eff5;
-}    
+}
+
+@media (min-width: 795px) {
+    .post-card:nth-child(2) .post-card-image,
+    .post-card:nth-child(3) .post-card-image,
+    .post-card:nth-child(4) .post-card-image {
+        height: 180px;
+        background-size: contain;
+    }
+
+    .post-card:nth-child(5) .post-card-image,
+    .post-card:nth-child(6) .post-card-image {
+        height: 281px;
+        background-size: contain;
+    }
+
+    .read-next-card -post-card-image {
+        height: 281px;
+        background-size: contain;
+    }
+}
+
+.post-full-content {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 70px 70px;
+}

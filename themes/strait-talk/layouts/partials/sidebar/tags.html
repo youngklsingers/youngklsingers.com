@@ -1,6 +1,0 @@
-<h5 class="card-header">Tags</h5>
-<div class="card-body">
-  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-  <a href="{{ "/" | relLangURL}}tags/{{ $name | urlize }}" class="badge badge-pill badge-light">{{ $name }}</a>
-  {{ end }}
-</div>

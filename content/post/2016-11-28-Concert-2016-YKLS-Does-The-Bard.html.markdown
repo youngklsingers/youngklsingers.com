@@ -1,7 +1,7 @@
 ---
 title: 'Concert 2016: YKLS Does The Bard'
 date: '2016-11-28 17:34:22'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521057154/YKLS_DTB_2_FB_ad.png"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_fill,g_face,h_900,w_1600/v1521057154/YKLS_DTB_2_FB_ad.png"
 tags: []
 ---
 

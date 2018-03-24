@@ -1,4 +1,4 @@
-<article class="post-full post"> 
+<article class="post-full post">
     <header class="post-full-header">
         <section class="post-full-meta">
             <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>{{if .Params.tags }}
@@ -6,15 +6,15 @@
         </section>
         <h1 class="post-full-title">{{.Title}}</h1>
     </header>
-    {{if .Params.image}}
-    <figure class="post-full-image" style="background-image: url({{.Params.image | absURL}})">
+    {{if .Params.featured_image}}
+    <figure class="post-full-image" style="background-image: url({{.Params.featured_image | absURL}})">
     </figure>{{else}}
     <figure class="post-full-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)">
     </figure>{{end}}
 
     <section class="post-full-content">
         <div class="kg-card-markdown">
-        {{ .Content }}    
+        {{ .Content }}
         </div>
     </section>
 
