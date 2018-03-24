@@ -2,7 +2,12 @@
 title: 'Concert 2016: YKLS Does The Bard'
 date: '2016-11-28 17:34:22'
 featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_fill,g_face,h_900,w_1600/v1521057154/YKLS_DTB_2_FB_ad.png"
-tags: []
+description: "“Raw and uncut, live and unplugged” are the modern translation of how William Shakespeare's plays were staged more than 400 years ago before his passing. Despite his tragic death at 52, the legacy of the Bard of Avon lives on and continues to inspire artists and musicians alike to interpret his works in various ways."
+tags:
+- yklsdtb
+author: Alvin
+authorWebsite: "https://talk.aroundthestraits.com/posts/008-alvin-chan/"
+authorAvatar: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_face,h_300,w_300/v1521875269/8691cd2e-ed72-49f4-87e1-8dcad8bf043f.jpg"
 ---
 
 "Raw and uncut, live and unplugged" are the modern translation of how William Shakespeare's plays were staged more than 400 years ago before his passing. Despite his tragic death at 52, the legacy of the Bard of Avon lives on and continues to inspire artists and musicians alike to interpret his works in various ways.

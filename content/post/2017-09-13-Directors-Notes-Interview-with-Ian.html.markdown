@@ -10,6 +10,9 @@ tags:
 - ykls
 - ykls-rocks
 - yklsrocks
+author: Vincent
+authorWebsite: "https://talk.aroundthestraits.com/posts/001-vincent-tan/"
+authorAvatar: "https://res.cloudinary.com/young-kl-singers/image/upload/c_thumb,g_face,w_300/v1521874980/13241403_1602553706739214_3345379874556840045_n.jpg"
 ---
 
 For “YKLS ROCKS!” director Ian Chow, this will be his fourth performance outing with the community choir,  ever since he first mustered enough courage to pick up the phone to book a slot for auditions back in 2002.

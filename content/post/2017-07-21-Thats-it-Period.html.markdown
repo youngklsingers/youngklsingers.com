@@ -2,10 +2,13 @@
 title: That's it. Period.
 date: '2017-07-21 12:08:57'
 featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_fill,g_north,h_900,w_1600/v1521054655/20170721-Thats-It-Period-Featured.jpg"
+description: "It's Friday, folks! Let's help you hurry in the weekend with a bit of random stuff about one of the YKLS productions (ok admittedly we were going through some old videos and hey let's choose this)."
 tags:
 - penang
 - yklsperiod
-- yklsperiod
+author: Alvin
+authorWebsite: "https://talk.aroundthestraits.com/posts/008-alvin-chan/"
+authorAvatar: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_face,h_300,w_300/v1521875269/8691cd2e-ed72-49f4-87e1-8dcad8bf043f.jpg"
 ---
 
 It's Friday, folks! Let's help you hurry in the weekend with a bit of random stuff about one of the YKLS productions (ok admittedly we were going through some old videos and hey let's choose this).

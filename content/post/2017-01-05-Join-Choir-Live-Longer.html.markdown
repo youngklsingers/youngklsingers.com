@@ -2,6 +2,7 @@
 title: Join Choir, Live Longer!
 date: '2017-01-05 21:38:56'
 featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_fill,g_center,h_900,w_1600/v1521057924/20151210-YKLS-Chriastmas-Countdown-3-Days-Group.jpg"
+description: "Well, at least that's true for a group of people participating in a choir in a Connecticut town, as found in the results of a joint study by Harvard and Yale Universities (2008)"
 tags:
 - choir
 - choral
@@ -10,6 +11,9 @@ tags:
 - malaysia
 - singing
 - ykls
+author: Edlyn
+authorWebsite: "https://talk.aroundthestraits.com/posts/005-edlyn-khoo/"
+authorAvatar: "https://res.cloudinary.com/young-kl-singers/image/upload/c_thumb,g_face,h_300,w_300/v1521874525/26855126_10155654657161693_669529040_o.jpg"
 ---
 
 Well, at least that's true for a group of people participating in a choir in a Connecticut town, as found in the results of a joint study by Harvard and Yale Universities (2008). If that's not enough to convince you, this
