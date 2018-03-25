@@ -14,24 +14,29 @@ From the 60's to the new millennium, from classic rock to hard rock to alternati
 
 <!--more-->
 
-Presented in two contrasting halves, chronological vs sub-genres, the audience will be brought through a choral journey of rock music backed by ETA, a 4-piece band. The first half of the programme will showcase the choir's vocal prowess with a more mean and lean direction meanwhile you can expect a lighter second half done a la "sing-off" format.****
+Presented in two contrasting halves, chronological vs sub-genres, the audience will be brought through a choral journey of rock music backed by ETA, a 4-piece band. The first half of the programme will showcase the choir's vocal prowess with a more mean and lean direction meanwhile you can expect a lighter second half done a la "sing-off" format.
 
 
+<div class="listings">
 **Pentas 2@KL Performing Arts Centre**
 
 Concert Times:
-31 August 2017: 8.30pm
-1 September 2017: 8.30pm
-2 September 2017: 3pm & 8.30pm
-3 September 2017: 3pm
+
+* 31 August 2017: 8.30pm
+* 1 September 2017: 8.30pm
+* 2 September 2017: 3pm & 8.30pm
+* 3 September 2017: 3pm
 
 
 Ticket Prices:
-Normal Show Dates: RM50
-Disabled, TAS Card Members, Seniors & Kids under 12 years: RM40
 
-Online: ticketpro.com.my
+* Normal Show Dates: RM50
+* Disabled, TAS Card Members, Seniors & Kids under 12 years: RM40
+
+Online: [ticketpro.com.my](http://ticketpro.com.my)
+
 Tel: +603 4047 9000 (klpac) +603 7880 7999 (ticketpro)
 
+<div>
 
 ![](https://res.cloudinary.com/young-kl-singers/image/upload/v1520511297/ykls_ROCKS__4_LR_A3.jpg)

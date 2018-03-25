@@ -12,9 +12,9 @@ publishDir = "docs"
 
 [params]
   title = "The Young KL Singers"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  subtitle    = "The Young KL Singers"
 
-  cover       = "img/blog-cover.jpg"
+  cover       = "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_1600/v1520513268/YKLS_logo_Black_BG.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
@@ -25,10 +25,10 @@ publishDir = "docs"
   fbName = "fakeghost"
   githubName = "eueung"
 
-  logo = "hugo-logo.png"
+  logo = "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,w_1600/v1520513268/YKLS_logo_Black_BG.jpg"
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgDescription = "Th Young KL Singers"
 
   author = "EM"
   authorAvatar = "img/ghost-icon.png"

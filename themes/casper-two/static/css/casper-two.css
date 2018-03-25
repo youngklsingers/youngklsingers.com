@@ -99,3 +99,15 @@
     background: rgba(255, 255, 255, 0.8);
     border-radius: 70px 70px;
 }
+
+p + ul li {
+    margin: 0;
+}
+
+.listings p {
+    margin: 0;
+}
+
+.post-full-image {
+    margin-bottom: -195px;
+}
