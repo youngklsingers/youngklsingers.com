@@ -1,6 +1,7 @@
 ---
 title: Auditions!
 date: '2015-08-12 18:32:43'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_north,h_1152,w_2048,x_0,y_50/v1521367609/YKLS_Auditions_Period_Banner.jpg"
 tags: []
 ---
 
