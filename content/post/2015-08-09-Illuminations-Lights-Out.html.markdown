@@ -1,6 +1,7 @@
 ---
 title: 'Illuminations: Lights Out'
 date: '2015-08-09 18:44:52'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_900,w_1600,y_200/v1522953163/20150809-Illuminations-Lights-Out-3.jpg"
 tags:
 - illuminations
 - klpac
