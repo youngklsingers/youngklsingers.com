@@ -14,7 +14,7 @@ publishDir = "docs"
   title = "The Young KL Singers"
   subtitle    = "The Young KL Singers"
 
-  cover       = https://res.cloudinary.com/young-kl-singers/image/upload/v1522054556/Aurora_Preview_Masthead.png"
+  cover       = "https://res.cloudinary.com/young-kl-singers/image/upload/v1522054556/Aurora_Preview_Masthead.png"
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
