@@ -1,6 +1,7 @@
 ---
 title: One More Day To Illuminations!
 date: '2015-08-05 09:19:28'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_1836,w_3264/v1523162034/2015-08-05-One-More-Day-To-Illuminations-2.jpg"
 tags:
 - illuminations
 ---
@@ -8,13 +9,13 @@ tags:
 It's one more day until Illuminations opens! It's an exciting time as we polish up the performance for your entertainment! And while we're not polishing up our act, we're polishing up our meals.
 
 
-[![20150804_223543](http://www.youngklsingers.com/wp-content/uploads/2015/08/20150804_223543-1024x768.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/08/20150804_223543.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523160595/150805-One-More-Day-To-Illuminations-1.jpg)
 
 Because this year there are helpful members offering to 
  food for others - so everyone meets downstairs at KLPAC to mooch on nasi lemak ayam / sotong, KFC and dim sum!
 
 
-[![IMG_4079.JPG](http://www.youngklsingers.com/wp-content/uploads/2015/08/IMG_4079-1024x768.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/08/IMG_4079.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523162034/2015-08-05-One-More-Day-To-Illuminations-2.jpg)
 
 The Young KL Singers. Big on singing, big on eating.
 
@@ -22,7 +23,7 @@ Especially since we will have two performances each night (more opportunities fo
 
 As Illuminations is different from our usual shows, here are a few things to bear in mind to make sure everyone has the best possible experience!
 
-http://youtu.be/OpjF7gTWeQE
+[![](https://img.youtube.com/vi/OpjF7gTWeQEz/0.jpg)]((http://www.youtube.com/watch?v=OpjF7gTWeQEz)
 
 1. Please be on time - the ushers will not allow latecomers to enter Indicine once the performance has started. As this production aims to surround the audience in darkness and sound, interruptions such as people coming in late will compromise the atmosphere. The same applies to once the performance has started - minimal movement would be appreciated so do schedule any toilet trips before the show.
 
