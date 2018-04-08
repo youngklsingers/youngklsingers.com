@@ -1,6 +1,7 @@
 ---
 title: Interpretations
 date: '2015-07-28 13:53:09'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_414,w_736/v1523176901/150728-Interpretations-Featured.jpg"
 tags:
 - general
 - illuminations
@@ -8,7 +9,7 @@ tags:
 - yklsilluminations
 ---
 
-[![Rorschach_blot_01](http://www.youngklsingers.com/wp-content/uploads/2015/07/Rorschach_blot_01.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/07/Rorschach_blot_01.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523176901/150728-Interpretations-Featured.jpg)
 
 Music can be a lot of things to different people: it can remind you of something, somewhere or someone, it can elicit emotions.
 
