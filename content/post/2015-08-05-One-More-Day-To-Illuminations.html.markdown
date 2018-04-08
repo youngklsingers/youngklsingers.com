@@ -23,7 +23,7 @@ Especially since we will have two performances each night (more opportunities fo
 
 As Illuminations is different from our usual shows, here are a few things to bear in mind to make sure everyone has the best possible experience!
 
-[![](https://img.youtube.com/vi/OpjF7gTWeQEz/0.jpg)]((http://www.youtube.com/watch?v=OpjF7gTWeQEz)
+[![](https://img.youtube.com/vi/OpjF7gTWeQEz/0.jpg)](http://www.youtube.com/watch?v=OpjF7gTWeQEz)
 
 1. Please be on time - the ushers will not allow latecomers to enter Indicine once the performance has started. As this production aims to surround the audience in darkness and sound, interruptions such as people coming in late will compromise the atmosphere. The same applies to once the performance has started - minimal movement would be appreciated so do schedule any toilet trips before the show.
 
