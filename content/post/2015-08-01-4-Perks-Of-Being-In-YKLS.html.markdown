@@ -1,6 +1,7 @@
 ---
 title: 4 Perks Of Being In YKLS
 date: '2015-08-01 06:16:51'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_north,h_540,w_960/v1523165322/2015-08-01-4-Perks-Of-Being-In-YKLS-Feature.jpg"
 tags:
 - general
 ---
@@ -21,7 +22,7 @@ So let's move on to the 4 perks you may not really realise that are also great 
 
 
 
-[![File 03-08-2015 13 34 03](http://www.youngklsingers.com/wp-content/uploads/2015/08/File-03-08-2015-13-34-03.jpeg)](http://www.youngklsingers.com/wp-content/uploads/2015/08/File-03-08-2015-13-34-03.jpeg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523162726/2015-08-01-4-Perks-Of-Being-In-YKLS-1.jpg)
 YKLS provides stress relief in so many ways!
 
 *Rehearsals are generally on Mondays, giving you something to look forward to and thus not get bogged down by the Monday Blues.
@@ -32,8 +33,6 @@ YKLS provides stress relief in so many ways!
 	
 *More often than not you get crazy antics taking place (as you can see in the photo above, no don't worry our producers don't kill people).
 
-[![linuschoir](http://www.youngklsingers.com/wp-content/uploads/2014/09/linuschoir.jpg)](http://www.youngklsingers.com/wp-content/uploads/2014/09/linuschoir.jpg)
-
 
 **6. Let your hair down in public.**
 
@@ -42,7 +41,7 @@ Because everyone is a bit nutty inside, and you're in good company. Sometimes th
  in a four-note chord to grab his attention! Waiting for the train? Sing!
 
 
-[![YKLSLetsDoIt](http://www.youngklsingers.com/wp-content/uploads/2014/07/YKLSLetsDoIt-e1405188909927.jpg)](http://www.youngklsingers.com/wp-content/uploads/2014/07/YKLSLetsDoIt-e1405188909927.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523163581/2015-08-01-4-Perks-Of-Being-In-YKLS-2.jpg)
 
 Even the station guards weren't prepared to deal with our crazy.
 
@@ -51,9 +50,10 @@ https://www.youtube.com/watch?v=4mzOlMovyBY
 Then there are the post-production cast parties!
 
 
-[![1294484_10151733796039103_790307295_o](http://www.youngklsingers.com/wp-content/uploads/2015/08/1294484_10151733796039103_790307295_o.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/08/1294484_10151733796039103_790307295_o.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523163929/2015-08-01-4-Perks-Of-Being-In-YKLS-3.jpg)
 
 Which are themed. Zombie peasants were wandering about Bangsar one year.
+
 
 **7. Experience performing in other events.**
 
@@ -76,7 +76,7 @@ Don't believe me? Ask the dishes.
 The Young KL Singers is made up of members from all over, of all ages! No age limit!
 
 
-[![YKLSHeadshotsCollage](http://www.youngklsingers.com/wp-content/uploads/2014/07/YKLSHeadshotsCollage.jpg)](http://www.youngklsingers.com/wp-content/uploads/2014/07/YKLSHeadshotsCollage.jpg)
+[![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523164599/2015-08-01-4-Perks-Of-Being-In-YKLS-4.jpg)
 
 Well...technically if you are much much younger you would be joining the 
 [KL Children's Choir (KLCC)](http://www.youngchoral.my/courses/the-kl-childrens-choir) first.
