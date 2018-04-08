@@ -1,6 +1,7 @@
 ---
 title: Inside Intimate Indicine!
 date: '2015-07-29 04:25:55'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_north,h_1887,w_3355/v1523174216/YKLS%202015%20Illuminations%20Poster.jpg"
 tags:
 - illuminations
 - klpac
@@ -15,6 +16,6 @@ Given the nature of the concert, Indicine presents an appropriate venue because
 Yes, dim sum dinner! Goodbye, mamak fare near Young Choral Academy. Hello, dim sum near KL Performing Arts Centre. YKLS members have a passion for their food, something apparent during our trips to perform in Penang.
 
 
-[![IMG_2690](http://www.youngklsingers.com/wp-content/uploads/2015/07/IMG_2690-1024x1024.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/07/IMG_2690.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/a_0/v1523176432/150729-Inside-Intimate-Indicine-1.jpg)
 
 It won't be long before we're ready to illuminate you all at the concert (don't worry, no dim sum breath)!
