@@ -10,9 +10,13 @@ Originally this was going to be titled '8 Perks of Being in YKLS' but half of th
 
 You did? Oh. Okay, then.
 
+
 1. You learn singing techniques to up your game.
+
 2. You pick up loads of new songs and choral arrangements.
+
 3. You experience what it is to be part of a production, from rehearsals to bumping in at the venue to tech runs until the end of the performance.
+
 4. You make new friends.
 
 So let's move on to the 4 perks you may not really realise that are also great perks of being in the Young KL Singers! Also more pictures!
@@ -21,17 +25,16 @@ So let's move on to the 4 perks you may not really realise that are also great 
 **5. Defeat stress in multiple ways.**
 
 
-
 ![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523162726/150801-4-Perks-Of-Being-In-YKLS-1.jpg)
 YKLS provides stress relief in so many ways!
 
-*Rehearsals are generally on Mondays, giving you something to look forward to and thus not get bogged down by the Monday Blues.
+* Rehearsals are generally on Mondays, giving you something to look forward to and thus not get bogged down by the Monday Blues.
 
 	
-*Singing. Cheers. You. Up!
+* Singing. Cheers. You. Up!
 
 	
-*More often than not you get crazy antics taking place (as you can see in the photo above, no don't worry our producers don't kill people).
+* More often than not you get crazy antics taking place (as you can see in the photo above, no don't worry our producers don't kill people).
 
 
 **6. Let your hair down in public.**
@@ -76,7 +79,7 @@ Don't believe me? Ask the dishes.
 The Young KL Singers is made up of members from all over, of all ages! No age limit!
 
 
-[![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523164599/150801-4-Perks-Of-Being-In-YKLS-5.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523164599/150801-4-Perks-Of-Being-In-YKLS-5.jpg)
 
 Well...technically if you are much much younger you would be joining the 
 [KL Children's Choir (KLCC)](http://www.youngchoral.my/courses/the-kl-childrens-choir) first.
