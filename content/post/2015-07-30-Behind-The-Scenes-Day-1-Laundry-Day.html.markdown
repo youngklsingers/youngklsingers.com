@@ -1,6 +1,7 @@
 ---
 title: 'Behind The Scenes, Day 1: Laundry Day'
 date: '2015-07-30 13:55:12'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_north,h_1887,w_3355/v1523174216/YKLS%202015%20Illuminations%20Poster.jpg"
 tags:
 - illuminations
 - klpac
@@ -15,11 +16,11 @@ So what goes on?
 Drapes. It's like laundry day, what with all the white cloth, clothes pegs and safety pins!
 
 
-[![IMG_4019](http://www.youngklsingers.com/wp-content/uploads/2015/07/IMG_4019-1024x1024.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/07/IMG_4019.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/a_0/v1523175273/150730-Behind-The-Scenes-Day-1-Laundry-Day-1.jpg)
 
 Testing out how it sounds behind the drapes!
 
 
-[![IMG_4022](http://www.youngklsingers.com/wp-content/uploads/2015/07/IMG_4022-1024x1024.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/07/IMG_4022.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523175335/150730-Behind-The-Scenes-Day-1-Laundry-Day-2.jpg)
 
 Don't worry, we won't be installing grass on the floor and wind machines and the smell of softeners!
