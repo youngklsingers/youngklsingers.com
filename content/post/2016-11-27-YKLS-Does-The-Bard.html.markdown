@@ -10,9 +10,8 @@ tags:
 - ykls-does-the-bard
 - ykls-does-the-bard
 - yklsdtb
-author: Alvin
-authorWebsite: "https://talk.aroundthestraits.com/posts/008-alvin-chan/"
-authorAvatar: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_face,h_300,w_300/v1521875269/8691cd2e-ed72-49f4-87e1-8dcad8bf043f.jpg"
+author: Edlyn
+authorAvatar: "https://res.cloudinary.com/young-kl-singers/image/upload/v1522952329/Aurora_Preview_Profile_Edlyn_1.jpg"
 ---
 
 This year, the Young KL Singers joined the arts and literary world in paying tribute to William Shakespeare, as part of a global celebration of his life and works 400 years after his death. A special collaborative project between YKLS and The Actors Studio, "YKLS Does The Bard" was held from 3rd to 6th Nov 2016 at Pentas 2, KLPAC. In a very intimate and contemporary cabaret-style setting, we presented 15 choral settings of Shakespearean text which explored the universal themes of life, love and loss. In between the music, our members shared personal reflections and stories based on the themes portrayed in the songs.****
@@ -21,22 +20,18 @@ This year, the Young KL Singers joined the arts and literary world in paying tr
 tl;dr: Shakespeare raw and uncut, live and unplugged.
 
 
-![14556768_1124583914293082_5360998699570588496_o](http://www.youngklsingers.com/wp-content/uploads/2016/11/14556768_1124583914293082_5360998699570588496_o.jpg)
-
-[caption id="attachment_3245" align="aligncenter" width="2048"]
-![15129068_1157122444363667_7028733550331924451_o](http://www.youngklsingers.com/wp-content/uploads/2016/11/15129068_1157122444363667_7028733550331924451_o.jpg) Pic credit:
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523166137/161127-YKLS-Does-The-Bard-1.jpg)
+Pic credit:
 [Aldwin Lee](https://www.facebook.com/aldwin.lee.3)[/caption]
 
-[caption id="attachment_3243" align="alignnone" width="1600"]
-![14889814_1158092454275561_5206962220388985940_o](http://www.youngklsingers.com/wp-content/uploads/2016/11/14889814_1158092454275561_5206962220388985940_o.jpg) Pic credit: Sha (
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523166205/161127-YKLS-Does-The-Bard-2.jpg)
+Pic credit: Sha (
 [KLPAC](https://www.facebook.com/events/102145423588056/permalink/148932942242637/))[/caption]
 
-[caption id="attachment_3244" align="aligncenter" width="1600"]
-![14918932_1158091907608949_8312332302755526301_o](http://www.youngklsingers.com/wp-content/uploads/2016/11/14918932_1158091907608949_8312332302755526301_o.jpg) Pic credit: Sha (
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523166199/161127-YKLS-Does-The-Bard-3.jpg)
+Pic credit: Sha (
 [KLPAC](https://www.facebook.com/events/102145423588056/permalink/148932942242637/))[/caption]
 
-[caption id="attachment_3246" align="aligncenter" width="2048"]
-![15235366_1160280830714495_8906789275782132895_o](http://www.youngklsingers.com/wp-content/uploads/2016/11/15235366_1160280830714495_8906789275782132895_o.jpg) Pic credit:
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523166173/161127-YKLS-Does-The-Bard-4.jpg)
+Pic credit:
 [Aldwin Lee](https://www.facebook.com/aldwin.lee.3)  [/caption]
-
-Written by: Edlyn Khoo 
