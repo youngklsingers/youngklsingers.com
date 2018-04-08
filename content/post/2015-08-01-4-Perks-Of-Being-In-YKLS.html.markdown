@@ -1,7 +1,7 @@
 ---
 title: 4 Perks Of Being In YKLS
 date: '2015-08-01 06:16:51'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_north,h_540,w_960/v1523165322/2015-08-01-4-Perks-Of-Being-In-YKLS-Feature.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_north,h_540,w_960/v1523165322/150801-4-Perks-Of-Being-In-YKLS-Feature.jpg"
 tags:
 - general
 ---
@@ -22,7 +22,7 @@ So let's move on to the 4 perks you may not really realise that are also great 
 
 
 
-![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523162726/2015-08-01-4-Perks-Of-Being-In-YKLS-1.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523162726/150801-4-Perks-Of-Being-In-YKLS-1.jpg)
 YKLS provides stress relief in so many ways!
 
 *Rehearsals are generally on Mondays, giving you something to look forward to and thus not get bogged down by the Monday Blues.
@@ -41,7 +41,7 @@ Because everyone is a bit nutty inside, and you're in good company. Sometimes th
  in a four-note chord to grab his attention! Waiting for the train? Sing!
 
 
-![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523163581/2015-08-01-4-Perks-Of-Being-In-YKLS-2.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523163581/150801-4-Perks-Of-Being-In-YKLS-2.jpg)
 
 Even the station guards weren't prepared to deal with our crazy.
 
@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=4mzOlMovyBY
 Then there are the post-production cast parties!
 
 
-![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523163929/2015-08-01-4-Perks-Of-Being-In-YKLS-3.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523163929/150801-4-Perks-Of-Being-In-YKLS-3.jpg)
 
 Which are themed. Zombie peasants were wandering about Bangsar one year.
 
@@ -76,7 +76,7 @@ Don't believe me? Ask the dishes.
 The Young KL Singers is made up of members from all over, of all ages! No age limit!
 
 
-[![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523164599/2015-08-01-4-Perks-Of-Being-In-YKLS-4.jpg)
+[![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523164599/150801-4-Perks-Of-Being-In-YKLS-5.jpg)
 
 Well...technically if you are much much younger you would be joining the 
 [KL Children's Choir (KLCC)](http://www.youngchoral.my/courses/the-kl-childrens-choir) first.
