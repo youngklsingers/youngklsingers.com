@@ -1,13 +1,14 @@
 ---
 title: illuminations
 date: '2015-07-23 04:19:51'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/v1523180879/YKLS_2015_Illuminations_Featured.jpg"
 tags:
 - choir
 - kuala-lumpur
 - yklsilluminations
 ---
 
-[![10426538_10153224658740339_6825088333458973789_n](http://www.youngklsingers.com/wp-content/uploads/2015/07/10426538_10153224658740339_6825088333458973789_n-300x300.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/07/10426538_10153224658740339_6825088333458973789_n.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523180031/YKLS_2015_Illuminations_Masthead.jpg)
 
 If a picture is a thousand words, music is a thousand pictures. Each rise and fall, every silence in between is a feeling, an image, a memory.
 
