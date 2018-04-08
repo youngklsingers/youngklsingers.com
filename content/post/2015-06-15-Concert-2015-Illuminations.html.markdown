@@ -1,6 +1,7 @@
 ---
 title: 'Concert 2015: Illuminations'
 date: '2015-06-15 20:16:46'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/v1523180879/YKLS_2015_Illuminations_Featured.jpg"
 tags: []
 ---
 
@@ -35,4 +36,4 @@ Online:
 Tel: +603 4047 9000
 
 
-[![10426538_10153224658740339_6825088333458973789_n](http://www.youngklsingers.com/wp-content/uploads/2015/07/10426538_10153224658740339_6825088333458973789_n.jpg)](http://www.youngklsingers.com/wp-content/uploads/2015/07/10426538_10153224658740339_6825088333458973789_n.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523174216/YKLS%202015%20Illuminations%20Poster.jpg)
