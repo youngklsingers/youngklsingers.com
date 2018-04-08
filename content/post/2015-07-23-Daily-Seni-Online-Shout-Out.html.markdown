@@ -1,6 +1,7 @@
 ---
 title: Daily Seni Online Shout Out!
 date: '2015-07-23 03:57:24'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/v1523180879/YKLS_2015_Illuminations_Featured.jpg"
 tags:
 - illuminations
 - news
