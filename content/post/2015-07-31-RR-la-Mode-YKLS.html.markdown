@@ -1,6 +1,7 @@
 ---
 title: R&R à la Mode YKLS
 date: '2015-07-31 12:49:28'
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/v1523173021/150731-RR-la-Mode-YKLS-Feature.jpg"
 tags:
 - illuminations
 - klpac
