@@ -1,7 +1,7 @@
 ---
 title: One More Day To Illuminations!
 date: '2015-08-05 09:19:28'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_1836,w_3264/v1523162034/2015-08-05-One-More-Day-To-Illuminations-2.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_1836,w_3264/v1523162034/150805-One-More-Day-To-Illuminations-2.jpg"
 tags:
 - illuminations
 ---
@@ -15,7 +15,7 @@ Because this year there are helpful members offering to
  food for others - so everyone meets downstairs at KLPAC to mooch on nasi lemak ayam / sotong, KFC and dim sum!
 
 
-![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523162034/2015-08-05-One-More-Day-To-Illuminations-2.jpg)
+![](https://res.cloudinary.com/young-kl-singers/image/upload/v1523162034/150805-One-More-Day-To-Illuminations-2.jpg)
 
 The Young KL Singers. Big on singing, big on eating.
 
