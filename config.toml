@@ -21,9 +21,9 @@ publishDir = "docs"
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
+  twitterName = "youngklsingers"
   fbName = "fakeghost"
-  githubName = "eueung"
+  youtubeName = "youngklsingers"
 
   logo = "https://res.cloudinary.com/young-kl-singers/image/upload/v1522990225/YKLS_Logo_BW_Circle_Vector.png"
   orgName = "EM"
@@ -50,16 +50,16 @@ publishDir = "docs"
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
+  name = "Current Production"
+  url = "/"
   weight = 100
 
 [[menu.main]]
-  name = "Food"
-  url = "/categories/food/"
+  name = "Past Productions"
+  url = "/"
   weight = 99
 
 [[menu.main]]
-  name = "External"
+  name = "Contact Us"
   url = "https://google.com/"
   weight = 95

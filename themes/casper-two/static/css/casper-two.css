@@ -75,6 +75,12 @@
     color: #e5eff5;
 }
 
+@media (min-width: 1080px) {
+    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-image {
+        height: 384px;
+    }
+}
+
 @media (min-width: 795px) {
     .post-card:nth-child(2) .post-card-image,
     .post-card:nth-child(3) .post-card-image,
@@ -110,4 +116,8 @@ p + ul li {
 
 .post-full-image {
     margin-bottom: -195px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
 }
