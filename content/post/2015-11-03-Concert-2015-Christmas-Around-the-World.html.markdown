@@ -1,7 +1,7 @@
 ---
 title: 'Concert 2015: Christmas Around the World'
 date: '2015-11-03 11:42:20'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521057475/YKLS_christmas_website_banner.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_472,w_839,x_110/v1521057475/YKLS_christmas_website_banner.jpg"
 tags: []
 ---
 
