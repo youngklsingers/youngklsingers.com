@@ -1,7 +1,7 @@
 ---
 title: Happy 58th Independence Day!
 date: '2015-08-28 13:38:37'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1520511309/YKLS_Flag_4900x3500.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/v1524075795/YKLS_Flag_1600_900.jpg"
 tags:
 - choir
 - general
