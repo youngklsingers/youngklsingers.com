@@ -1,7 +1,7 @@
 ---
 title: 'YKLS Christmas Countdown: 1 Day'
 date: '2015-12-12 05:17:47'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521057475/YKLS_christmas_website_banner.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_472,w_839,x_110/v1521057475/YKLS_christmas_website_banner.jpg"
 tags: []
 ---
 
