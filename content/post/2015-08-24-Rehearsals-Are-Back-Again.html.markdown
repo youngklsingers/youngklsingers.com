@@ -1,7 +1,7 @@
 ---
 title: Rehearsals Are Back Again!
 date: '2015-08-24 12:25:08'
-featured_image: "http://res.cloudinary.com/young-kl-singers/image/upload/v1521367609/YKLS_Auditions_Period_Banner.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_1152,w_2048,x_0,y_30/v1521367609/YKLS_Auditions_Period_Banner.jpg"
 tags:
 - general
 ---
