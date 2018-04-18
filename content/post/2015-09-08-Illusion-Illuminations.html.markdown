@@ -1,7 +1,7 @@
 ---
 title: Illusion & Illuminations
 date: '2015-09-08 13:05:14'
-featured_image: "http://res.cloudinary.com/young-kl-singers/image/upload/c_scale,h_600/v1521364424/20150908-Illusion-and-Illuminations-Petronas-Youtube.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/v1521364424/150908_Illusion_and_Illuminations_Petronas_Youtube.jpg"
 tags:
 - choir
 - general
