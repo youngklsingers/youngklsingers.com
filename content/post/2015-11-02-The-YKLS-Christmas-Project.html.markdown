@@ -1,7 +1,7 @@
 ---
 title: The YKLS Christmas Project
 date: '2015-11-02 13:51:32'
-featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,g_xy_center,h_600,w_800,x_430,y_440/v1521362886/ykls_xmas_2012_2_LR-01.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_473,w_842,y_220/v1521362886/ykls_xmas_2012_2_LR-01.jpg"
 tags:
 - christmas
 ---
