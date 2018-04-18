@@ -1,7 +1,7 @@
 ---
 title: 'YKLS Christmas Countdown: 5 Days'
 date: '2015-12-08 05:00:54'
-featured_image: "http://res.cloudinary.com/young-kl-singers/image/upload/v1521057475/YKLS_christmas_website_banner.jpg"
+featured_image: "https://res.cloudinary.com/young-kl-singers/image/upload/c_crop,h_472,w_839,x_110/v1521057475/YKLS_christmas_website_banner.jpg"
 tags:
 - christmas
 - subang
